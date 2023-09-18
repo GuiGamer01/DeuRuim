@@ -1,1 +1,2 @@
-# DeuRuim
+# synchronousBallMovement
+Ball moving synchronously
